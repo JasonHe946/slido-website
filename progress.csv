@@ -1,0 +1,29 @@
+section,completed
+2.1.1,YES
+2.1.2,YES
+2.1.3,YES
+2.2.0,YES
+2.2.1,YES
+2.2.2,YES
+2.2.3,YES
+2.2.4,YES
+2.2.5,YES
+2.2.6,YES
+2.2.7,YES
+2.3.1,YES
+2.3.2,YES
+2.3.3,YES
+2.3.4,YES
+2.3.5,YES
+2.3.6,YES
+2.4.1,YES
+2.4.2,YES
+2.4.3,YES
+2.4.4,YES
+2.4.5,YES
+2.4.6,YES
+2.4.7,NO
+2.5, YES, 4 linting errors due to testing files but we are allowed to ignore them according to forum post: https://edstem.org/au/courses/18938/discussion/2384424
+2.6, YES, refer to TESTING.md for instructions
+
+FE_DEPLOYED_URL: https://z5360470-z5312615-presto-frontend.vercel.app/
